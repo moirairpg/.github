@@ -10,7 +10,7 @@ This GitHub organization houses the repositories for MoirAI and its modules. Her
 - **[MoirAI Backend](https://github.com/moirairpg/moirai):** Handles the heavy lifting with Java, Spring Boot, and robust APIs.
 - **[MoirAI Frontend](https://github.com/moirairpg/moirai-fe):** The user interface for MoirAI, bringing sleek designs and intuitive controls.
 
-### Proof of concepts
+### Proofs of concept
 - **[Quest generation system](https://github.com/moirairpg/poc-quest-system):** A proof-of-concept for generating quests based on what happens in the story.
 
 ## Contributing
