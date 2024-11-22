@@ -11,8 +11,7 @@ This GitHub organization houses the repositories for MoirAI and its modules. Her
 - **[MoirAI Frontend](https://github.com/moirairpg/moirai-fe):** The user interface for MoirAI, bringing sleek designs and intuitive controls.
 
 ### Proof of concepts
-- **[Voice module](https://github.com/moirairpg/poc-voice-module):** A proof-of-concept for voice-based interaction, using OpenAI's TTS and STT APIs.
-- **[Quest generation system](https://github.com/moirairpg/quest-system-poc):** A proof-of-concept for generating quests based on what happens in the story.
+- **[Quest generation system](https://github.com/moirairpg/poc-quest-system):** A proof-of-concept for generating quests based on what happens in the story.
 
 ## Contributing
 
